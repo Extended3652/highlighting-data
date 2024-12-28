@@ -1,0 +1,14 @@
+{
+  "categories": [
+    {
+      "name": "NLI",
+      "color": "#FFB84D",
+      "words": ["*@*", "a&e", "accc", "against the law"]
+    },
+    {
+      "name": "PRF",
+      "color": "#FF0000",
+      "words": ["5ht", "[*]", "a$*", "a*$", "a*hole"]
+    }
+  ]
+}
